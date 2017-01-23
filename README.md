@@ -1,3 +1,3 @@
 # hello-world
 Finally! My first git repository.  
-I suppose now I've announced to anyone that wishes to read this that I am actuall going to create code on which the world can comment.
+I suppose now I've announced to anyone that wishes to read this that I am actually going to create code on which the world can comment.
